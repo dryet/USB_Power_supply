@@ -1,0 +1,5 @@
+../Middlewares/ST/usbx/common/usbx_stm32_device_controllers/ux_dcd_stm32_callback.c:231:6:HAL_PCD_SetupStageCallback	6
+../Middlewares/ST/usbx/common/usbx_stm32_device_controllers/ux_dcd_stm32_callback.c:390:6:HAL_PCD_DataInStageCallback	8
+../Middlewares/ST/usbx/common/usbx_stm32_device_controllers/ux_dcd_stm32_callback.c:569:6:HAL_PCD_DataOutStageCallback	8
+../Middlewares/ST/usbx/common/usbx_stm32_device_controllers/ux_dcd_stm32_callback.c:722:6:HAL_PCD_ResetCallback	2
+../Middlewares/ST/usbx/common/usbx_stm32_device_controllers/ux_dcd_stm32_callback.c:803:6:HAL_PCD_DisconnectCallback	2

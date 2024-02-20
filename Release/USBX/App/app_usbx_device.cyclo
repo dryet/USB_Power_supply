@@ -1,0 +1,2 @@
+../USBX/App/app_usbx_device.c:182:13:app_ux_device_thread_entry	1
+../USBX/App/app_usbx_device.c:74:6:MX_USBX_Device_Init	7

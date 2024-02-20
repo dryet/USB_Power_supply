@@ -1,0 +1,4 @@
+../Core/Src/regulator.c:28:6:regulator_enable	1
+../Core/Src/regulator.c:54:6:regulator_disable	1
+../Core/Src/regulator.c:65:6:regulator_set_voltage	8
+../Core/Src/regulator.c:163:6:HAL_ADC_ConvCpltCallback	1
